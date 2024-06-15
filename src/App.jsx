@@ -4,7 +4,7 @@ function App() {
   return (
     <>
       <main id="main-layout">
-        <SeccionUp />
+        <SeccionUp /> 
       </main>
     </>
   );
